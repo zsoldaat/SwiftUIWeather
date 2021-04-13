@@ -1,3 +1,5 @@
-This is a simple weather app built in SwiftUI, fetching data from openweathermap.org. 
+This is a simple weather app built in SwiftUI, fetching data from openweathermap.org.
+
+This app was originally featured in Angel Yu's course "iOS & Swift - The Complete iOS App Development Bootcamp", re-made by me using the SwiftUI framework. 
 
 Here is a demo of the app in action: https://youtu.be/UKKD4s6vQ-4
